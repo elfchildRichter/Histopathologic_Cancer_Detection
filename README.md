@@ -1,5 +1,4 @@
-UC Boulder MSDS course work <br>
-DTSA 5511 Deep Learning <br>
+CU Boulder MSDS DTSA 5511 Deep Learning <br>
 
 ## Mini-Project <br> Histopathologic Cancer Detection
 
